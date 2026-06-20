@@ -35,7 +35,7 @@ Every mechanic was implemented from scratch.
 
 ## Installation
 ```
-git clone https://github.com/lautttdev/PySnake.git
+git clone https://github.com/lautttdev/PycPong.git
 cd PythonInvaders
 pip install pygame
 python main.py
